@@ -1,0 +1,22 @@
+Github
+
+Comandos
+
+git init (Inicia un proyecto nuevo en una carpeta)
+git status (Visualizar el estado del repositorio)
+git add "" (Subes archivos en especifico)
+git add . (Sube todos los archivos) 
+
+git log (Ver los commits dentro de ese repositorio)
+git commit -m "mensaje"
+
+git checkout id (Revisar un commit)
+
+git branch (Para visualizar todas las ramas de nuestro repositorio)
+
+git switch rama (Para cambiar de rama)
+git switch -c "Fernando" 
+
+git CONFIG --global user.name.email (Para crear un nuevo usuario y designar tus características)
+
+git ignore .class (Ignoras todos los archivos con la extensión .class)
